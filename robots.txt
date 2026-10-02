@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://koenvandenbosch.github.io/sitemap.xml
